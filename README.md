@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/sojibahmed" target="_blank">Sojib Ahmed</a> 👋</h1>
