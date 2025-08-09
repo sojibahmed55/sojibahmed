@@ -1,7 +1,8 @@
 # sojibahmed
 
 <!-- Banner Image -->
-![GitHub Banner](https://i.ibb.co/df7P7Qx/github-banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)
+
 
 # Hi there, I'm Sojib Ahmed 👋  
 ### 💻 Frontend Web Developer | SEO Specialist | Passionate Coder
