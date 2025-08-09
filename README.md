@@ -1,62 +1,97 @@
 # sojibahmed
 
 <!-- Banner Image -->
-![GitHub Banner](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub Banner" width="80%" />
+</p>
 
-
-# Hi there, I'm Sojib Ahmed 👋  
-### 💻 Frontend Web Developer | SEO Specialist | Passionate Coder
+<h1 align="center">Hi, I'm <a href="https://github.com/sojibahmed" target="_blank">Sojib Ahmed</a> 👋</h1>
+<h3 align="center">Frontend Web Developer | SEO Specialist | UI/UX Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate Frontend Web Developer and SEO Specialist who loves crafting stunning, responsive, and user-friendly websites. With a creative mindset and a focus on clean UI/UX, I aim to deliver both functionality and beauty in every project.
+<p align="center">
+I craft beautiful, blazing-fast, and user-centric websites with a focus on clean design and SEO. When I'm not coding, you’ll find me diving into new tech stacks or building projects that challenge the norm.
+</p>
 
 ---
 
-## 🔥 Current Activities
-- 🌱 I’m exploring **Next.js**
-- 💼 Working on a **Tourism Management System**
-- 📚 Learning advanced **UI/UX design**
-- 🚀 Building my portfolio with real-world projects
+## 🔥 Current Adventures
+- 🌱 Diving deep into <b>Next.js</b> & exploring its server-side magic  
+- 💻 Building a comprehensive <b>Tourism Management System</b> with React & Node.js  
+- 🎨 Leveling up on <b>UI/UX design</b> to create seamless user journeys  
+- 🚀 Expanding my portfolio with real-world, scalable projects  
 
 ---
 
-## 🛠 Skills
+## 🛠️ Skills & Technologies
 
-**Frontend:**  
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-
-**Backend & Database:**  
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-**Tools & Platforms:**  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify)
+<table align="center" cellpadding="10">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML5</td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS3</td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" width="40" /><br>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="40" /><br>React</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br>Next.js</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br>Tailwind CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Node.js</td>
+    <td><img src="https://skillicons.dev/icons?i=express" width="40" /><br>Express</td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB</td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=github" width="40" /><br>GitHub</td>
+    <td><img src="https://skillicons.dev/icons?i=vercel" width="40" /><br>Vercel</td>
+    <td><img src="https://skillicons.dev/icons?i=netlify" width="40" /><br>Netlify</td>
+    <td><img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma</td>
+    <td><img src="https://skillicons.dev/icons?i=seo" width="40" /><br>SEO</td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Social Links
-- [LinkedIn](https://linkedin.com/in/sojib-ahmed)  
-- [GitHub](https://github.com/sojibahmed)  
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sojib-ahmed" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
+  <a href="https://github.com/sojibahmed" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:sojibahmed514698@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sojibahmed&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sojibahmed&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmed&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojibahmed&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sojibahmed&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmed&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 📌 Pinned Projects
-1. **Tourism Management System**  
-   - Live: [View Project](https://tourism-project-link.com)  
-   - Tech: React, Node.js, MongoDB, Tailwind CSS  
+## 📌 Featured Projects
 
-2. **Roommate Finder Website**  
-   - Live: [View Project](https://roommate-finder-link.com)  
-   - Tech: React, Express, MongoDB, DaisyUI  
+| Project Name                 | Tech Stack                         | Live Demo                     |
+|-----------------------------|----------------------------------|------------------------------|
+| [Tourism Management System](https://tourism-project-link.com) | React, Node.js, MongoDB, Tailwind CSS | [View Project](https://tourism-project-link.com) |
+| [Roommate Finder Website](https://roommate-finder-link.com)  | React, Express, MongoDB, DaisyUI         | [View Project](https://roommate-finder-link.com)  |
+| [Lawyer Appointment Booking](https://lawyer-appointment-link.com) | React Router, LocalStorage, Tailwind CSS | [View Project](https://lawyer-appointment-link.com) |
 
-3. **Lawyer Appointment Booking**  
-   - Live: [View Project](https://lawyer-appointment-link.com)  
-   - Tech: React Router, LocalStorage, Tailwind CSS  
+---
+
+*Made with ❤️ by Sojib Ahmed*
+
